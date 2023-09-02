@@ -1,0 +1,5 @@
+m = ["Alice. "ants", "Bob", "badgers", "Carol", "cats"]
+m.sort()
+print(m)
+spam = ['a', 'z', 'A', 'Z']
+print(spam)
